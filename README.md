@@ -1,2 +1,2 @@
 # covid-data
-cover data
+covid data
